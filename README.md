@@ -1,1 +1,1 @@
-# polynomial_regression
+I have been given the unique opportunity to build a project that focused on predicting Apple’s share transaction volume based on their share price using polynomial regression. This project has allowed me to drastically expand my predictive analytics and machine learning capabilities.
